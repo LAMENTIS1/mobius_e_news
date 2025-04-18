@@ -17,10 +17,10 @@ const Footer: React.FC = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <Newspaper size={24} className="text-teal-400" />
-              <span className="text-xl font-bold">Smart E-News</span>
+              <span className="text-xl font-bold">Mobius E-News</span>
             </div>
             <p className="text-gray-300 text-sm">
-              Intelligent news and research portal delivering the most relevant content using machine learning technology.
+              Intelligent news and research portal delivering Tomorrow.
             </p>
             <div className="flex space-x-4 pt-2">
               <a href="#" className="text-gray-300 hover:text-teal-400 transition-colors">
